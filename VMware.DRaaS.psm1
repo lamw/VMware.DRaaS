@@ -5,7 +5,7 @@ Function Connect-DRaas {
     Created by:    William Lam
     Date:          05/23/2019
     Organization:  VMware
-    Blog:          http://www.virtuallyghetto.com
+    Blog:          http://www.williamlam.com
     Twitter:       @lamw
     ===========================================================================
 
@@ -58,7 +58,7 @@ Function Get-DRaas {
     Created by:    William Lam
     Date:          05/23/2019
     Organization:  VMware
-    Blog:          http://www.virtuallyghetto.com
+    Blog:          http://www.williamlam.com
     Twitter:       @lamw
     ===========================================================================
 
@@ -181,7 +181,7 @@ Function Set-DRaas {
     Created by:    William Lam
     Date:          05/23/2019
     Organization:  VMware
-    Blog:          http://www.virtuallyghetto.com
+    Blog:          http://www.williamlam.com
     Twitter:       @lamw
     ===========================================================================
 
